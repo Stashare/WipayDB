@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WipayDB</string>
+
+    <string-array name="genres">
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Country</item>
+        <item>Gospel</item>
+    </string-array>
+</resources>
